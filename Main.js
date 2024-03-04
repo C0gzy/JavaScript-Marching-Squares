@@ -1,6 +1,6 @@
 const canvas = document.getElementById("PlayersCanvas");
 const ctx = canvas.getContext("2d");
-const rez = 10;
+const rez = 8;
 var Cols,Rows;
 var Layout = [];
 window.onload = function() {
